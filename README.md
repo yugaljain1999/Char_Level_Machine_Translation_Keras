@@ -6,7 +6,7 @@ Character Level Translation from MinangKabau to Indonesian language
 these languages can be similar in writing but their pronounciation is different.
 
 
-**Models**
+**Models**-
 
   **Char Level LSTM** - Encoder LSTM + Decoder LSTM
 
