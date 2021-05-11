@@ -6,9 +6,12 @@ Character Level Translation from MinangKabau to Indonesian language
 these languages can be similar in writing but their pronounciation is different.
 
 * Models
--> Char Level LSTM - Encoder LSTM + Decoder LSTM
--> Char Level BiLSTM - Encoder LSTM + Decoder BiLSTM
--> Byte pair Encoding + BiLSTM 
--> Char Level Transformers - Transformers with Multi-Head Attention Mechanism.
+-> **Char Level LSTM** - Encoder LSTM + Decoder LSTM
+
+-> **Char Level BiLSTM** - Encoder LSTM + Decoder BiLSTM
+
+-> **Byte pair Encoding + BiLSTM** 
+
+-> **Char Level Transformers** - Transformers with Multi-Head Attention Mechanism.
 
 Feel free to raise an issue if you face difficulty to understand how these models are applied.
