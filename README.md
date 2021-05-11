@@ -17,3 +17,7 @@ these languages can be similar in writing but their pronounciation is different.
   **Char Level Transformers** - Transformers with Multi-Head Attention Mechanism.
 
 Feel free to raise an issue if you face difficulty to understand how these models are applied.
+
+**Results**
+
+![alt text](https://github.com/yugaljain1999/Char_Level_Machine_Translation_Keras/blob/main/results.jpeg)
