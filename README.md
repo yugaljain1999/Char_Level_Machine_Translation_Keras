@@ -5,7 +5,7 @@ Character Level Translation from MinangKabau to Indonesian language
 **Dataset** - I have used word to word dictionary dataset to do character level machine translation. Dataset consist of Minangkabau-Indonesian 14000 dictionary word pairs. Both of
 these languages can be similar in writing but their pronounciation is different.
 
-**Models
+**Models**
 
 -> **Char Level LSTM** - Encoder LSTM + Decoder LSTM
 
